@@ -1,0 +1,19 @@
+An Lg efficiency data catalog in the Northern Middle East from recordings of 7490 crustal earthquakes between 1990 to 2020 from 1333 broadband and short-period stations operated temporarily or permanently.
+The data set contains the Lg efficiency data to reproduce the main results in the journal article ''Predicting Lg Blockage in the Middle East using a Bayesian Lasso Logistic Regression Model".
+
+Authors: Duyi Li1, Saikat Nandy2, Hongjun Hui1, Scott H. Holan2, Eric Sandvol1
+1Department of Geological Science, University of Missouri, Columbia, MO, USA
+2Department of Statistics, University of Missouri, Columbia, MO, USA
+Corresponding author: Eric Sandvol(sandvole@missouri.edu)
+
+Please cite the journal article if you use this dataset.
+
+Column information of the data:
+1 Event Longitude
+2 Event Latitude
+3 Station Longitude
+4 Station Latitude
+5 Efficiency
+6 Event Time
+7 Station Network
+8 Station Name
